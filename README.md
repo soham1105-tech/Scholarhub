@@ -70,4 +70,4 @@ MIT
 
 ## Live Demo
 
-https://ai.studio/apps/3f29d6f7-a7a2-4ffd-a1ff-3bda69a58f4e?fullscreenApplet=true
+https://scholarhub-gules.vercel.app/
